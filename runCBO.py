@@ -145,5 +145,3 @@ print('type_cost', args.type_cost)
 print('total_time', total_time)
 print('folder', folder)
 
-
-
